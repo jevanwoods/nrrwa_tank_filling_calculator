@@ -1,0 +1,26 @@
+* {
+    border: solid 1px black;
+    margin: 0px;
+}
+
+body {
+    background-color: azure;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.headerLinks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerLink {
+    margin-left: 40px;
+    margin-right: 40px;
+    color: black;
+    text-decoration: none;
+}
